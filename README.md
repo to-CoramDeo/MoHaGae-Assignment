@@ -1,7 +1,7 @@
 # MoHaGae-Assignment
 
 <h2> 1. 파일 업로드 구현 </h2>
-<p>참조: <link>https://opentutorials.org/course/2039/10966</link></p>
+<p>*참조: <link>https://opentutorials.org/course/2039/10966</link></p>
 <p><파일 업로드하는 방법><br>
 파일을 전송하는 쪽보다 파일을 전송받은 쪽에서 훨씬 더 많은 작업을 수행합니다.<br>
 > HTML < SEVER<br>

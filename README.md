@@ -16,6 +16,6 @@
 <li>Server쪽 컴퓨터에 파일이 저장(생성)된다.</li></ol>
 =>1.~4.이 작동되면 파일 업로드는 구현된 것이다.<br>
 </p>
-
+<hr></hr>
 <h2> 2. MoHaGae에서 진행한 Metfilx 프로젝트 분석 </h2>
 <p>▶ 참조: <link>https://github.com/MoHaGae/metflix</link></p>
